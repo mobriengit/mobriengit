@@ -17,14 +17,16 @@ Welcome to my GitHub profile. I am a passionate data analyst and software develo
 - SQL
 - Java
 - R
+- Salesforce Apex
 
 ### Data Analysis & Visualization
 
+- Tableau
+- Power BI
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Tableau
 
 ### Database & Data Warehousing
 

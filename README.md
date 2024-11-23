@@ -4,7 +4,6 @@ Welcome to my GitHub profile. I am a passionate data analyst and software develo
 
 ## 🚀 About Me
 
-- 💼 **Founder of Forge Analytics**
 - 📊 **Specialized in Data Analysis, Predictive Analytics, and Machine Learning**
 - 🛠️ **Building Dynamic Pricing Models and Inventory Optimization Models**
 - 🌐 **Creating Analytical Reports for E-Commerce and Sports Teams**
